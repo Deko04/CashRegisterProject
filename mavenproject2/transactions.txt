@@ -1,0 +1,7 @@
+Transaction#1
+Date and Time: 2025-06-06T15:15:33.660234300
+Username: DekoLeko
+Items purchased: 
+Erasers - 1 pcs @ 10.0 Php = 10.0 Php
+Papers - 2 pcs @ 50.0 Php = 100.0 Php
+Total amount: 110.0 Php
